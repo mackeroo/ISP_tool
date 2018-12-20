@@ -5,8 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ISP_tool"
         mc:Ignorable="d"
-        Title="test" Height="350" Width="525">
+        Title="Isotope Pattern Search Tool v1" Height="350" Width="525">
     <Grid>
-        
+        <StackPanel>
+            <DataGrid Margin="10 10 10 10" Height="200">
+                
+            </DataGrid>
+            <Button Width="50" Height="20" Content="Browse">
+                
+            </Button>
+        </StackPanel>
     </Grid>
 </Window>
