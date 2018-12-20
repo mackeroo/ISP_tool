@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISP_tool", "ISP_tool\ISP_tool.csproj", "{1848B3BB-541A-4FFF-B051-4B82B9CCA1CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1848B3BB-541A-4FFF-B051-4B82B9CCA1CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1848B3BB-541A-4FFF-B051-4B82B9CCA1CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1848B3BB-541A-4FFF-B051-4B82B9CCA1CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1848B3BB-541A-4FFF-B051-4B82B9CCA1CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3525D717-D073-4C0F-A908-53CCAA546AE7}
+	EndGlobalSection
+EndGlobal
